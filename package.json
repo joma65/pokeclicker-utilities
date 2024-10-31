@@ -1,0 +1,10 @@
+{
+  "name": "pokeclicker-utilities",
+  "scripts": {
+    "prettier": "npx prettier . --write"
+  },
+  "devDependencies": {
+    "pokeclicker": "github:pokeclicker/pokeclicker",
+    "prettier": "3.3.3"
+  }
+}
