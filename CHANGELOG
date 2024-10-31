@@ -1,0 +1,13 @@
+1.1.0
+- Set up git repo, auto updates and prettier config
+- no functional changes
+
+1.0.2
+- Refactoring
+- no functional changes
+
+1.0.1
+- Fix keyboard shortcut not being recognised on MacOS
+
+1.0.0
+- Initial release
