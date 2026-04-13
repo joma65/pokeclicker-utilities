@@ -1,16 +1,14 @@
 // ==UserScript==
 // @name         [PokéClicker] Optimal Vitamins
 // @namespace    http://tampermonkey.net/
-// @version      1.1.0
+// @version      1.1.1
 // @description  Automatically give the optimal number of vitamins to each Pokémon. Press Alt+V to run.
-// @author       bcf
+// @author       joma65
 // @match        https://www.pokeclicker.com/*
 // @match        https://www.pokeclickerplatinum.com/*
 // @grant        none
 // @license      MIT
-// @supportURL   https://github.com/b4f7/pokeclicker-utilities/issues
-// @downloadURL https://update.greasyfork.org/scripts/514852/%5BPok%C3%A9Clicker%5D%20Optimal%20Vitamins.user.js
-// @updateURL https://update.greasyfork.org/scripts/514852/%5BPok%C3%A9Clicker%5D%20Optimal%20Vitamins.meta.js
+// @supportURL   https://github.com/joma65/pokeclicker-utilities/issues
 // ==/UserScript==
 
 (() => {
